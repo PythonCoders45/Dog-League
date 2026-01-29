@@ -36,7 +36,7 @@ package {
         private function startGame():void {
             removeChild(loading);
 
-            var apiUrl:String = "https://your-railway-url.up.railway.app";
+            var apiUrl:String = "https://dogleaguebackendv1.railway.app";
             var game:Game = new Game(apiUrl);
             addChild(game);
         }
