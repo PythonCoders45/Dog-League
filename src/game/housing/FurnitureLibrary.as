@@ -6,7 +6,8 @@ package game.housing {
                 { id: "bowl1", name: "Food Bowl", image: "assets/furniture/bowl1.png" },
                 { id: "plant1", name: "Plant", image: "assets/furniture/plant1.png" },
                 { id: "rug1", name: "Rug", image: "assets/furniture/rug1.png" },
-                { id: "toybox1", name: "Toy Box", image: "assets/furniture/toybox1.png" }
+                { id: "toybox1", name: "Toy Box", image: "assets/furniture/toybox1.png" },
+                { id: "carpet1", name: "Carpet", image: "assets/furniture/carpet1.png" },
             ];
         }
 
